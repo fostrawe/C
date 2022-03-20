@@ -3,7 +3,9 @@ SNAKE GAME WİTH C;
 
 
 #include <stdio.h>
+
     #include <conio.h>
+    
     main(){
         int bas,eksilt,say=0,sonuc;
         printf("Baslangic sayisini ve eksilecek sayi miktarini girin!: ");
